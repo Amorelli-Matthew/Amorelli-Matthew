@@ -1,3 +1,3 @@
 #Matthew Amorelli
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,C#,cs,java,kotlin,arduino,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,cs,java,kotlin,arduino,esp32)](https://skillicons.dev)
